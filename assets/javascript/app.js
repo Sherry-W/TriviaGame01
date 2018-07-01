@@ -217,7 +217,7 @@
 
 		$('#msg1').text('Correct Answers: ' + correct);
 		$('#msg2').text('Incorrect Answers: ' + wrong);
-		$('#msg3').text('Unanswers: ' + unanswered);
+		$('#msg3').text('Unanswered: ' + unanswered);
 
 	}
 
